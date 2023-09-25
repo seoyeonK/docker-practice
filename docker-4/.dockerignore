@@ -1,0 +1,6 @@
+tmp/
+webserver/
+*.go
+*.md
+!README.md
+password.txt
